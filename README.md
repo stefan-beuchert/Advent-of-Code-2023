@@ -58,5 +58,54 @@
 		<td>Day 13</td>
 		<td align="center"><a href="Day 13.ipynb">⭐⭐</a></td>
 	</tr>
+	<tr>
+		<td>Day 14</td>
+		<td align="center"><a href="Day 14.ipynb"></a></td>
+	</tr>
+	<tr>
+		<td>Day 15</td>
+		<td align="center"><a href="Day 15.ipynb"></a></td>
+	</tr>
+	<tr>
+		<td>Day 16</td>
+		<td align="center"><a href="Day 16.ipynb"></a></td>
+	</tr>
+	<tr>
+		<td>Day 17</td>
+		<td align="center"><a href="Day 17.ipynb"></a></td>
+	</tr>
+	<tr>
+		<td>Day 18</td>
+		<td align="center"><a href="Day 18.ipynb"></a></td>
+	</tr>
+	<tr>
+		<td>Day 19</td>
+		<td align="center"><a href="Day 19.ipynb"></a></td>
+	</tr>
+	<tr>
+		<td>Day 20</td>
+		<td align="center"><a href="Day 20.ipynb"></a></td>
+	</tr>
+	<tr>
+		<td>Day 21</td>
+		<td align="center"><a href="Day 21.ipynb"></a></td>
+	</tr>
+	<tr>
+		<td>Day 22</td>
+		<td align="center"><a href="Day 22.ipynb"></a></td>
+	</tr>
+	<tr>
+		<td>Day 23</td>
+		<td align="center"><a href="Day 23.ipynb"></a></td>
+	</tr>
+	<tr>
+		<td>Day 24</td>
+		<td align="center"><a href="Day 24.ipynb"></a></td>
+	</tr>
+	<tr>
+		<td>Day 25</td>
+		<td align="center"><a href="Day 25.ipynb"></a></td>
+	</tr>
+	<tr>
 </table>
 <!-- Main table end -->
