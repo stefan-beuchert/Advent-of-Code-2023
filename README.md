@@ -8,7 +8,7 @@
 	</tr>
 	<tr>
 		<td>Day 1</td>
-		<td align="center"><a href="Day%01.ipynb">⭐⭐</a></td>
+		<td align="center"><a href="Day 01.ipynb">⭐⭐</a></td>
 	</tr>
 </table>
 <!-- Main table end -->
