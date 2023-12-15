@@ -60,11 +60,11 @@
 	</tr>
 	<tr>
 		<td>Day 14</td>
-		<td align="center"><a href="Day 14.ipynb"></a></td>
+		<td align="center"><a href="Day 14.ipynb">⭐</a></td>
 	</tr>
 	<tr>
 		<td>Day 15</td>
-		<td align="center"><a href="Day 15.ipynb"></a></td>
+		<td align="center"><a href="Day 15.ipynb">⭐⭐</a></td>
 	</tr>
 	<tr>
 		<td>Day 16</td>
